@@ -1,0 +1,63 @@
+/* Font families */
+
+/* font-family: 'Kranky', ;
+font-family: 'Pompiere', ;
+font-family: 'Harmattan', ; */
+
+h1, h2, h3, h4, h5 {
+  font-family: "Kranky";
+  font-size: 5rem;
+}
+
+p {
+  font-family: "Pompiere";
+  font-size: 2rem;
+}
+
+button {
+  font-family: "Pompiere";
+}
+
+.title {
+  text-align: center;
+  background-image: url("alpaca.png");
+  background-size: cover;
+  padding: 50px auto;
+  height: 800px;
+}
+
+.title-text {
+  padding: 0;
+}
+
+/* #subject-form {
+  border: 1px solid;
+  border-color: green;
+} */
+
+.input {
+  text-align: center;
+  margin-top: 3%;
+}
+
+#search-parameters {
+  margin: 10px auto 30px;
+}
+
+.button-interface {
+  text-align: center;
+}
+
+.gif-div {
+  text-align: center;
+}
+
+.gif-button {
+  margin: 0 10px;
+}
+
+.captured-gif {
+  border-radius: 10%;
+  width: 15%;
+  margin: 2%;
+}
