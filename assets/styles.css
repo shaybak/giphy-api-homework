@@ -67,8 +67,17 @@ button {
 
 .captured-gif {
   border-radius: 10%;
-  width: 15%;
+  width: 70%;
   margin: 0 2%;
+}
+
+.img-and-rating {
+  display: inline-block;
+  text-align: center;
+}
+
+.rating {
+  display: block;
 }
 
 
